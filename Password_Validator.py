@@ -1,13 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import string
-
-
-# In[2]:
 
 
 def validating_password(password):
@@ -31,13 +23,7 @@ def validating_password(password):
         print('password invalid')
 
 
-# In[3]:
-
-
 validating_password('!aa1Ajnbv')
-
-
-# In[ ]:
 
 
 
