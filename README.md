@@ -1,4 +1,4 @@
 # Password-Validation
 Function for validation of password:
-    -> function take string and validate the string.
-    -> Password must contain alphabits, numbers and special characters.
+    -> The function takes a string and validate that string.
+    -> The string must contain alphabits, numbers and special characters this way the function will return true and the string will be validated.
